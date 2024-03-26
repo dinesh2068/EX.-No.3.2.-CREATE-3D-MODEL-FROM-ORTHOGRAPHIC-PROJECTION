@@ -42,11 +42,13 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+
 ## Design:
 ![EDM 3 2 v1](https://github.com/dinesh2068/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/151390189/73a08ad4-17da-46e3-bbcf-d575b6fbf47c)
 
 ## Sheet:
-[SHEET NO 3.2.pdf](https://github.com/dinesh2068/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/files/14755223/SHEET.NO.3.2.pdf)
+
+![SHEET NO 3 2_page-0001](https://github.com/dinesh2068/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/151390189/3015bb95-09f6-4c62-8358-aade6f2ca0a0)
 
 
 ## RESULT:
